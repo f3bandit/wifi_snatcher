@@ -8,7 +8,13 @@ OS: windows 11
 ------------------------------------------------------------------------------------------------------------------------------------------
 Description:
 ------------------------------------------------------------------------------------------------------------------------------------------
-#2 powershell script dumps, exports, zips, and uploads the loot thru scp to the wifi pager loot\wifi dir. then deletes files in %TEMP% dir 
+
+web server payload for file tranfers to and from the pager for attacks
+
+viewer payload for viewing the wifi credential xml files
+
+magic.ps1 script that's downloaded to the target and executed by the omg cable
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Files:
@@ -17,6 +23,9 @@ omg/omg_payload = copy and paste into omg cable payload slot
 
 magic/magic.ps1 = this needs to be copied to /mmc/root/scripts on the pager
 
-payload.sh = this needs to be copied to /mmc/root/payloads/user/exfiltration/wifi_loot_viewer 
+/payload.sh = this needs to be copied to /mmc/root/payloads/user/exfiltration/wifi_loot_viewer
+
+wifi_snatcher_server/payload.sh = /mmc/root/payloads/user/exfiltration/wifi_snatcher_server
+
 
 
