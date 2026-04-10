@@ -1,8 +1,8 @@
 <--FOR EDUCATIONAL PURPOSES ONLY-->
 
-Name: wifi snatcher
+Name: wifi snatcher/viewer
 Author: f3bandit
-Version: 1.2
+Version: 2.0
 Devices: omg cable, wifi pager
 OS: windows 11
 ------------------------------------------------------------------------------------------------------------------------------------------
