@@ -1,13 +1,16 @@
-<--FOR EDUCATIONAL PURPOSES ONLY-->
+# <--FOR EDUCATIONAL PURPOSES ONLY-->
 
 Name: wifi snatcher/viewer
+
 Author: f3bandit
+
 Version: 2.0
+
 Devices: omg cable, wifi pager
+
 OS: windows 11
-------------------------------------------------------------------------------------------------------------------------------------------
-Description:
-------------------------------------------------------------------------------------------------------------------------------------------
+
+# wifi_snatcher-viewer
 
 web server payload for file tranfers to and from the pager for attacks
 
@@ -15,9 +18,8 @@ viewer payload for viewing the wifi credential xml files
 
 magic.ps1 script that's downloaded to the target and executed by the omg cable
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
-Files:
+# Files:
 
 omg/omg_payload = copy and paste into omg cable payload slot
 
