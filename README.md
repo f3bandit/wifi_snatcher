@@ -23,11 +23,13 @@ magic.ps1 script that's downloaded to the target and executed by the omg cable
 
 omg/omg_payload = copy and paste into omg cable payload slot
 
-magic/magic.ps1 = this needs to be copied to /mmc/root/scripts on the pager
+magic/magic.ps1 -> copy to -> /mmc/root/scripts on the pager
 
-/payload.sh = this needs to be copied to /mmc/root/payloads/user/exfiltration/wifi_loot_viewer
+/payload.sh -> copy to -> /mmc/root/payloads/user/exfiltration/wifi_loot_viewer
 
-wifi_snatcher_server/payload.sh = /mmc/root/payloads/user/exfiltration/wifi_snatcher_server
+wifi_snatcher_server/payload.sh -> copy to -> /mmc/root/payloads/user/exfiltration/wifi_snatcher_server <--"This server only runs while payload is active!!!"
+
+python_server_service/payload.sh -> copy to -> /mmc/root/payloads/user/exfiltration/python_server <--"This server runs as a service it will remain running till stopped manually!!!"
 
 
 
