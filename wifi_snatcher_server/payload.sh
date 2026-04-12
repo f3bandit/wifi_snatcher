@@ -1,13 +1,6 @@
 #!/bin/bash
 
 # Title: wifi_snatcher_server
-# Author:f3bandit
-# Description: First-run dependency bootstrap + local file server
-# Version: 2.2
-
-#!/bin/bash
-
-# Title: wifi_snatcher_server
 # Author: f3bandit
 # Description: First-run dependency bootstrap + local file server + menu control
 # Version: 3.0
